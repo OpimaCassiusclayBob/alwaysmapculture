@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://opimacassiusclaybob.github.io/alwaysmapculture/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1daw3lTRXl6jCw7-zNMVp9KjcWHWXAQwQAigNSRk6mV8/edit#gid=0
+- Uganda Cultural Sites Spreedsheet https://docs.google.com/spreadsheets/d/1daw3lTRXl6jCw7-zNMVp9KjcWHWXAQwQAigNSRk6mV8/edit#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
